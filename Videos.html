@@ -6,12 +6,33 @@
 <head>
   <title>Videos</title>
   <link href="/css/Videos.css" type="text/css" rel="stylesheet">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+  <script>
+    // Wait for window load 
+    $(window).load(function() {
+      // Animate loader off screen
+      $(".se-pre-con").fadeOut("slow");; 
+    });</script>
 </head>
 
 
 
 <body>
 <div class="se-pre-con"></div>
+  <!-- Ends -->
+  <div class="content">
+    <div class="back-to-article"><p><a href="smallenvelop.com/blog/"><< Back to the article !!</a></p></div> 
+    <img src="http://smallenvelop.com/wp-content/uploads/2014/08/simple-pre-loader.jpg" 
+         style="visibility: hidden; width:100%; height: auto;">
+  </div>
+  <style>
+    .content {
+      background: url(http://smallenvelop.com/wp-content/uploads/2014/08/simple-pre-loader.jpg) center no-repeat;
+      background-size: 100%;
+      width: 100%;
+    }
+  </style>
 
 
 <!--Top title page-->
