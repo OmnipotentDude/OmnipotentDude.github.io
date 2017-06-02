@@ -7,7 +7,7 @@ background-color: black;
 /* Top title page */
 p.title {
 color: DodgerBlue;
-font-family: Georgia,Serif;
+font-family: Ultra;
 font-size: 50px;
 text-align: center;
 }
@@ -31,3 +31,4 @@ p.videos {
   text-align: center;
 }
 
+@font-face { font-family: Ultra; src: url('/fonts/Ultra.otf'); } 
