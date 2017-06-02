@@ -25,8 +25,11 @@ font-size: 20px;
 
 /* end of title */
 
-p.text {
+p.cm1 {
 color: white;
 font-family: Georgia,Serif;
 font-size: 20px;
+border-style: solid;
+border-color: white;
+border-radius: 12px;
 }
