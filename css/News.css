@@ -24,3 +24,14 @@ font-size: 20px;
 }
 
 /* end of title */
+
+
+.sidebar {
+    position:absolute;
+    left:0; top:92px; bottom: 0;
+    width: 178px;
+}
+.main {
+    position: absolute;
+    left:178px; top:92px; right:0; bottom:0;
+}
