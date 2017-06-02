@@ -33,3 +33,9 @@ border-style: solid;
 border-color: white;
 border-radius: 12px;
 }
+
+p.ct {
+color: white;
+font-family: Georgia,Serif;
+font-size: 20px;
+}
