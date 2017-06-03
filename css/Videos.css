@@ -33,4 +33,23 @@ p.videos {
 
 @font-face { font-family: Ultra; src: url('/fonts/Ultra.otf'); } 
 
+/*pagination*/
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: white;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.pagination a.active {
+    background-color: #00ccff;
+    color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #00001a;}
+
 
