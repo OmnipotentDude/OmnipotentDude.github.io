@@ -36,7 +36,6 @@ p.videos {
 /*pagination*/
 .pagination {
     display: inline-block;
-  text-align: center;
 }
 
 .pagination a {
@@ -52,5 +51,9 @@ p.videos {
 }
 
 .pagination a:hover:not(.active) {background-color: #00001a;}
+
+p.pan {
+ text-align: center;
+}
 
 
