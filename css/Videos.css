@@ -31,6 +31,10 @@ p.videos {
   text-align: center;
 }
 
+img.big {
+margin: auto;
+}
+
 @font-face { font-family: Ultra; src: url('/fonts/Ultra.otf'); } 
 
 /*pagination*/
