@@ -33,6 +33,8 @@ p.videos {
 
 img.big {
 margin: auto;
+width: auto;
+display: block;
 }
 
 @font-face { font-family: Ultra; src: url('/fonts/Ultra.otf'); } 
