@@ -111,6 +111,17 @@
     </a>
 
 </div>
+  
+<!--walkthrough-->
+<div id="snackbar"><a href="guide.html">New to the web? Click here for a quick walkthrough</a></div>
+  
+  <script>
+window.onload = function() {
+    var x = document.getElementById("snackbar")
+    x.className = "show";
+    setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+};
+</script>
 </body>
 
 
