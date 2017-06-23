@@ -33,6 +33,10 @@ font-size: 60px;
 test-align: center;
 }
 
+.image {
+text-align: center;
+}
+
 
 
 @font-face { font-family: Ultra; src: url('/fonts/Ultra.otf'); } 
