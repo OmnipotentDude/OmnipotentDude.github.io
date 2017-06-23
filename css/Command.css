@@ -28,10 +28,10 @@ font-size: 20px;
 
 /* end of title */
 p.name {
-font-family: "Montserrat Subrayada";
 font-size: 60px;
 test-align: center;
 color: DodgerBlue;
+font-family: "Montserrat Subrayada";
 }
 
 .image {
