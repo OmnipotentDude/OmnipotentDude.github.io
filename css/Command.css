@@ -29,7 +29,7 @@ font-size: 20px;
 /* end of title */
 p.name {
 font-size: 60px;
-test-align: center;
+text-align: center;
 color: DodgerBlue;
 font-family: "Montserrat Subrayada";
 }
