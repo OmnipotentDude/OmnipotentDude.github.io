@@ -1,5 +1,4 @@
 
-@import url("https://fonts.googleapis.com/css?family=Montserrat+Subrayada");
 
 body {
 background-color: black;
@@ -31,7 +30,6 @@ p.name {
 font-size: 60px;
 test-align: center;
 color: DodgerBlue;
-font-family: "Montserrat Subrayada";
 }
 
 .image {
