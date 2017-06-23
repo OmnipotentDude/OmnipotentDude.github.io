@@ -1,3 +1,6 @@
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat+Subrayada");
+
 body {
 background-color: black;
 }
@@ -24,7 +27,11 @@ font-size: 20px;
 }
 
 /* end of title */
-
+p.name {
+font-family: "Montserrat Subrayada";
+font-size: 60px;
+test-align: center;
+}
 
 
 
